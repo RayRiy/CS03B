@@ -15,7 +15,7 @@ class Triangle:
         self.side3 = side3
     def getSide1(self):
         return self.side1
-    def getSide2(self, side2):
+    def getSide2(self):
         return self.side2
     def getSide3(self):
         return self.side3
