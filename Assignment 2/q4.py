@@ -1,6 +1,6 @@
 #################################################
 # CS03B - Summer 2026
-# Assignment 2 - Question 3
+# Assignment 2 - Question 4
 # Student Name: Rayaan Riyaz
 # SID: 20691965
 #################################################
